@@ -1,1 +1,1 @@
-OpenCV with Python for Face Recognition and Identification. :-)
+OpenCV with python for face recognition and identification. :-)
